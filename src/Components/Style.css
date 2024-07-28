@@ -1,0 +1,47 @@
+.Navbar{
+    background-image: url('https://th.bing.com/th/id/OIP.9x5Z_YDIkvwCzOIembwM5AHaF_?pid=ImgDet&w=185&h=149&c=7');
+    background-size: cover;
+    min-height: 80vh;
+} 
+.Navbar{
+    background-image: url('https://www.besttrendcar.com/wp-content/uploads/2020/03/How-To-Choose-Best-Car-For-Travel.jpg');
+    background-size: cover;
+    min-height: 70vh;
+}
+.Navbar{
+    background-image: url('https://www.besttrendcar.com/wp-content/uploads/2020/03/How-To-Choose-Best-Car-For-Travel.jpg');
+    background-size: cover;
+    min-height: 70vh;
+}
+.Navbar{
+    background-image: url('https://www.besttrendcar.com/wp-content/uploads/2020/03/How-To-Choose-Best-Car-For-Travel.jpg');
+    background-size: cover;
+    min-height: 70vh;   
+}
+
+.ul_list a:hover{
+    background-color: #01959a;
+    color: #fff;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+    padding: 3px;
+}
+.images_file:hover{
+    transform: scale(1.3);
+    cursor: pointer;
+    transition: 0.8s;
+}
+.data{
+    overflow: hidden;
+}
+.Footer{
+    background-color: rgba(0, 0, 0, 0.548);
+    min-height: 80vh;
+}
+.icons{
+    display: flex;
+    justify-content:flex-end;
+    gap: 20px;
+    margin-bottom: 30px;
+   
+}
